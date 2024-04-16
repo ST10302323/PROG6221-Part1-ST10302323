@@ -1,0 +1,13 @@
+﻿using System;
+using System.Collections.Generic;
+
+namespace ST10302323_POE_Part1
+{
+    internal class Program
+    {
+        class Ingredient
+        {
+            public string Name { get; set; }
+            public double Quantity { get; set; }
+            public string Unit { get; set; }
+        }//Ingredient
