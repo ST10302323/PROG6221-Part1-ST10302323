@@ -7,3 +7,9 @@ The code is organised into three classes: Ingredient, Step, and Recipe. The Ingr
 The Main method in the Program class serves as the entry point for the application. It prompts the user to enter the details for the recipe, including the number of ingredients and steps, and then iterates through each input to add ingredients and steps to the recipe. After displaying the full recipe, the program allows the user to scale the recipe, reset quantities, and clear recipe data based on user input.
 
 Overall, the program provides a user-friendly interface for managing recipes, allowing users to easily input, view, and modify recipe details while ensuring that user data is stored in memory only during runtime and is not persisted between sessions. The code is well-structured, leveraging object-oriented principles to encapsulate data and functionality, and includes comments to explain variable names, methods, and logic for better readability and maintainability.
+
+Below is a screenshot of my git commits
+
+![NumberOfCommits](https://github.com/ST10302323/PROG6221-Part1-ST10302323/assets/128794626/195acf69-a261-4e13-a1be-f395b38cd9aa)
+
+
